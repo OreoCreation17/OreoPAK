@@ -23,10 +23,10 @@ bash setup
 ```
 6. Done.
 
-## Unpacking
-1. Run `bash thepak`
-2. Select option 1
-3. Select your pak file
+
+
+
+
 
 ## Repacking
 1. Run `bash thepak`
