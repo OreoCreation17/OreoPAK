@@ -29,8 +29,8 @@ bash setup
 
 
 ## Repacking
-1. Run `bash thepak`
-2. Select option 2
+1. Run `bash oreo`
+2. Select option 1
 3. Select your pak file
 
 ### Subscribe to my Telegram channel to get updated script https://t.me/+H1ELZYsPV7ZkOWU9
