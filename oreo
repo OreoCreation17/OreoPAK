@@ -10,11 +10,11 @@ if [[ -d "output" ]]
     echo ""
   else
     echo ""
-    mkdir output
+    mkdir /sdcard/Download/output
 fi
 
 repacking () {
-  qemu-i386 $PREFIX/share/quickbms/quickbms -w -r etc/oreo.bms $opt output
+  qemu-i386 $PREFIX/share/quickbms/quickbms -w -r etc/oreo.bms $opt /sdcard/Download/output
 }
 
 function repack {
