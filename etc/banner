@@ -22,5 +22,5 @@ WHITE='\033[1;37m'
 clear
 echo -e "${CYAN}█▀█ █▀█ █▀▀ █▀█${NOCOLOR}"
 echo -e "█▄█ █▀▄ ██▄ █▄█"
-echo -e "          ${YELLOW}by —͟͞ 𝑵 𝑬 𝑯 𝑨™${NOCOLOR}"
+echo -e "          ${YELLOW}by —͟͞ 𝑵 𝑬 𝑯 𝑨 ™${NOCOLOR}"
 echo -e "-----------------------"
