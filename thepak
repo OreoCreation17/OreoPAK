@@ -10,11 +10,11 @@ if [[ -d "output" ]]
     echo ""
   else
     echo ""
-    mkdir /sdcard/Download/datput
+    mkdir datput
 fi
 
 repacking () {
-  qemu-i386 $PREFIX/share/quickbms/quickbms -w -r -r etc/tools.bms $opt /sdcard/Download/datput
+  qemu-i386 $PREFIX/share/quickbms/quickbms -w -r -r etc/tools.bms $opt datput
 }
 
 function repack {
